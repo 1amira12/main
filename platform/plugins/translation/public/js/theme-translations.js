@@ -1,0 +1,1 @@
+$((function(){$(".editable").editable({mode:"inline"})}));

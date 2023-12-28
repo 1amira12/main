@@ -1,0 +1,11 @@
+Admin:
+
+127.0.0.1:8000/admin
+
+user: amira
+pw :Amira123
+
+Vendeur :
+http://127.0.0.1:8000/vendor/dashboard
+user :contact@cartoucha.com
+pw :12345678
